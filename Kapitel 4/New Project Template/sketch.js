@@ -13,7 +13,7 @@ function setup() {
 
 function draw() {
   background(220);
-  ellipse(x, y, d)
+  circle(x, y, d)
 }
 
 function borderCheck() {
@@ -44,4 +44,3 @@ function borderCheck() {
 
 
 
- 
